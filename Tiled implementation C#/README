@@ -1,3 +1,5 @@
-Libraries in the project:
+Tiled implementation with code in C# language.
+
+Libraries needed in the project:
 Aiv.Fast2D.1.0.0
 OpenTK.3.2

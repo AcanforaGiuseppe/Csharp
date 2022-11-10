@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.5.0" orientation="orthogonal" renderorder="right-down" width="8" height="8" tilewidth="32" tileheight="32" infinite="0" nextlayerid="6" nextobjectid="11">
+ <tileset firstgid="1" name="desert" tilewidth="32" tileheight="32" spacing="1" margin="1" tilecount="48" columns="8">
+  <image source="tmw_desert_spacing.png" width="265" height="199"/>
+  <tile id="30">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+    <property name="type" value="cactus"/>
+   </properties>
+  </tile>
+  <tile id="31">
+   <properties>
+    <property name="collidable" type="bool" value="true"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer id="4" name="Desert" width="8" height="8">
+  <properties>
+   <property name="drawLayer" value="Background"/>
+  </properties>
+  <data encoding="csv">
+30,30,30,30,30,30,30,30,
+30,30,30,30,30,30,30,30,
+30,30,30,30,30,30,30,30,
+30,30,30,30,30,30,30,30,
+25,26,27,30,30,30,30,30,
+30,30,30,30,30,30,30,30,
+30,30,30,30,30,30,30,30,
+30,30,30,30,30,30,30,30
+</data>
+ </layer>
+ <layer id="3" name="Props" width="8" height="8">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,
+0,0,0,32,32,32,0,0,
+0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,
+0,0,31,0,31,31,0,0,
+0,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>

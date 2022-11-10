@@ -1,0 +1,124 @@
+C:\Users\chiro\source\repos\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\Assets\player_ship.png
+C:\Users\chiro\source\repos\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\SpaceShooter19_B.exe.config
+C:\Users\chiro\source\repos\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\SpaceShooter19_B.exe
+C:\Users\chiro\source\repos\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\SpaceShooter19_B.pdb
+C:\Users\chiro\source\repos\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\aiv-fast2d.dll
+C:\Users\chiro\source\repos\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\OpenTK.dll
+C:\Users\chiro\source\repos\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\OpenTK.xml
+C:\Users\chiro\source\repos\SpaceShooter19_B\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.csprojAssemblyReference.cache
+C:\Users\chiro\source\repos\SpaceShooter19_B\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.csproj.CopyComplete
+C:\Users\chiro\source\repos\SpaceShooter19_B\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.exe
+C:\Users\chiro\source\repos\SpaceShooter19_B\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.pdb
+C:\Users\chiro\source\repos\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\Assets\spaceBg.png
+C:\Users\chiro\source\repos\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\Assets\blueLaser.png
+C:\Users\chiro\source\repos\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\Assets\enemy_ship.png
+C:\Users\PC - VERDE\vsstudio\SpaceShooter21\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\Assets\blueLaser.png
+C:\Users\PC - VERDE\vsstudio\SpaceShooter21\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\Assets\enemy_ship.png
+C:\Users\PC - VERDE\vsstudio\SpaceShooter21\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\Assets\player_ship.png
+C:\Users\PC - VERDE\vsstudio\SpaceShooter21\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\Assets\spaceBg.png
+C:\Users\PC - VERDE\vsstudio\SpaceShooter21\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\SpaceShooter19_B.exe.config
+C:\Users\PC - VERDE\vsstudio\SpaceShooter21\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\SpaceShooter19_B.exe
+C:\Users\PC - VERDE\vsstudio\SpaceShooter21\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\SpaceShooter19_B.pdb
+C:\Users\PC - VERDE\vsstudio\SpaceShooter21\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\aiv-fast2d.dll
+C:\Users\PC - VERDE\vsstudio\SpaceShooter21\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\OpenTK.dll
+C:\Users\PC - VERDE\vsstudio\SpaceShooter21\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\OpenTK.xml
+C:\Users\PC - VERDE\vsstudio\SpaceShooter21\SpaceShooter19_B\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.csprojAssemblyReference.cache
+C:\Users\PC - VERDE\vsstudio\SpaceShooter21\SpaceShooter19_B\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.csproj.CoreCompileInputs.cache
+C:\Users\PC - VERDE\vsstudio\SpaceShooter21\SpaceShooter19_B\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.csproj.CopyComplete
+C:\Users\PC - VERDE\vsstudio\SpaceShooter21\SpaceShooter19_B\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.exe
+C:\Users\PC - VERDE\vsstudio\SpaceShooter21\SpaceShooter19_B\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.pdb
+C:\Users\chiro\Desktop\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\Assets\blueLaser.png
+C:\Users\chiro\Desktop\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\Assets\enemy_ship.png
+C:\Users\chiro\Desktop\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\Assets\player_ship.png
+C:\Users\chiro\Desktop\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\Assets\spaceBg.png
+C:\Users\chiro\Desktop\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\SpaceShooter19_B.exe.config
+C:\Users\chiro\Desktop\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\SpaceShooter19_B.exe
+C:\Users\chiro\Desktop\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\SpaceShooter19_B.pdb
+C:\Users\chiro\Desktop\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\aiv-fast2d.dll
+C:\Users\chiro\Desktop\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\OpenTK.dll
+C:\Users\chiro\Desktop\SpaceShooter19_B\SpaceShooter19_B\bin\Debug\OpenTK.xml
+C:\Users\chiro\Desktop\SpaceShooter19_B\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.csprojAssemblyReference.cache
+C:\Users\chiro\Desktop\SpaceShooter19_B\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.csproj.CopyComplete
+C:\Users\chiro\Desktop\SpaceShooter19_B\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.exe
+C:\Users\chiro\Desktop\SpaceShooter19_B\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.pdb
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors\SpaceShooter19_B\bin\Debug\Assets\blueLaser.png
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors\SpaceShooter19_B\bin\Debug\Assets\enemy_ship.png
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors\SpaceShooter19_B\bin\Debug\Assets\player_ship.png
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors\SpaceShooter19_B\bin\Debug\Assets\spaceBg.png
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors\SpaceShooter19_B\bin\Debug\SpaceShooter19_B.exe.config
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors\SpaceShooter19_B\bin\Debug\SpaceShooter19_B.exe
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors\SpaceShooter19_B\bin\Debug\SpaceShooter19_B.pdb
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors\SpaceShooter19_B\bin\Debug\aiv-fast2d.dll
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors\SpaceShooter19_B\bin\Debug\OpenTK.dll
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors\SpaceShooter19_B\bin\Debug\OpenTK.xml
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.csprojAssemblyReference.cache
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.csproj.CopyComplete
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.exe
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.pdb
+C:\Users\PC - VERDE\vsstudio\20200124\SpaceShooter19_B_actors2\SpaceShooter19_B\bin\Debug\Assets\blueLaser.png
+C:\Users\PC - VERDE\vsstudio\20200124\SpaceShooter19_B_actors2\SpaceShooter19_B\bin\Debug\Assets\enemy_ship.png
+C:\Users\PC - VERDE\vsstudio\20200124\SpaceShooter19_B_actors2\SpaceShooter19_B\bin\Debug\Assets\player_ship.png
+C:\Users\PC - VERDE\vsstudio\20200124\SpaceShooter19_B_actors2\SpaceShooter19_B\bin\Debug\Assets\spaceBg.png
+C:\Users\PC - VERDE\vsstudio\20200124\SpaceShooter19_B_actors2\SpaceShooter19_B\bin\Debug\Assets\fireGlobe.png
+C:\Users\PC - VERDE\vsstudio\20200124\SpaceShooter19_B_actors2\SpaceShooter19_B\bin\Debug\SpaceShooter19_B.exe.config
+C:\Users\PC - VERDE\vsstudio\20200124\SpaceShooter19_B_actors2\SpaceShooter19_B\bin\Debug\SpaceShooter19_B.exe
+C:\Users\PC - VERDE\vsstudio\20200124\SpaceShooter19_B_actors2\SpaceShooter19_B\bin\Debug\SpaceShooter19_B.pdb
+C:\Users\PC - VERDE\vsstudio\20200124\SpaceShooter19_B_actors2\SpaceShooter19_B\bin\Debug\aiv-fast2d.dll
+C:\Users\PC - VERDE\vsstudio\20200124\SpaceShooter19_B_actors2\SpaceShooter19_B\bin\Debug\OpenTK.dll
+C:\Users\PC - VERDE\vsstudio\20200124\SpaceShooter19_B_actors2\SpaceShooter19_B\bin\Debug\OpenTK.xml
+C:\Users\PC - VERDE\vsstudio\20200124\SpaceShooter19_B_actors2\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.csprojAssemblyReference.cache
+C:\Users\PC - VERDE\vsstudio\20200124\SpaceShooter19_B_actors2\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.csproj.CoreCompileInputs.cache
+C:\Users\PC - VERDE\vsstudio\20200124\SpaceShooter19_B_actors2\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.csproj.CopyComplete
+C:\Users\PC - VERDE\vsstudio\20200124\SpaceShooter19_B_actors2\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.exe
+C:\Users\PC - VERDE\vsstudio\20200124\SpaceShooter19_B_actors2\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.pdb
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors2\SpaceShooter19_B\bin\Debug\Assets\blueLaser.png
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors2\SpaceShooter19_B\bin\Debug\Assets\enemy_ship.png
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors2\SpaceShooter19_B\bin\Debug\Assets\fireGlobe.png
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors2\SpaceShooter19_B\bin\Debug\Assets\player_ship.png
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors2\SpaceShooter19_B\bin\Debug\Assets\spaceBg.png
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors2\SpaceShooter19_B\bin\Debug\SpaceShooter19_B.exe.config
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors2\SpaceShooter19_B\bin\Debug\SpaceShooter19_B.exe
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors2\SpaceShooter19_B\bin\Debug\SpaceShooter19_B.pdb
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors2\SpaceShooter19_B\bin\Debug\aiv-fast2d.dll
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors2\SpaceShooter19_B\bin\Debug\OpenTK.dll
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors2\SpaceShooter19_B\bin\Debug\OpenTK.xml
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors2\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.csprojAssemblyReference.cache
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors2\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.csproj.CoreCompileInputs.cache
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors2\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.csproj.CopyComplete
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors2\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.exe
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors2\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.pdb
+C:\Users\chiro\source\repos\SpaceShooter19_B_actors2\SpaceShooter19_B\bin\Debug\Assets\redEnemy_ship.png
+C:\Users\PC - VERDE\vsstudio\20200207\SpaceShooter19_B_collision2\SpaceShooter19_B\bin\Debug\Assets\blueLaser.png
+C:\Users\PC - VERDE\vsstudio\20200207\SpaceShooter19_B_collision2\SpaceShooter19_B\bin\Debug\Assets\enemy_ship.png
+C:\Users\PC - VERDE\vsstudio\20200207\SpaceShooter19_B_collision2\SpaceShooter19_B\bin\Debug\Assets\fireGlobe.png
+C:\Users\PC - VERDE\vsstudio\20200207\SpaceShooter19_B_collision2\SpaceShooter19_B\bin\Debug\Assets\player_ship.png
+C:\Users\PC - VERDE\vsstudio\20200207\SpaceShooter19_B_collision2\SpaceShooter19_B\bin\Debug\Assets\redEnemy_ship.png
+C:\Users\PC - VERDE\vsstudio\20200207\SpaceShooter19_B_collision2\SpaceShooter19_B\bin\Debug\Assets\spaceBg.png
+C:\Users\PC - VERDE\vsstudio\20200207\SpaceShooter19_B_collision2\SpaceShooter19_B\bin\Debug\SpaceShooter19_B.exe.config
+C:\Users\PC - VERDE\vsstudio\20200207\SpaceShooter19_B_collision2\SpaceShooter19_B\bin\Debug\SpaceShooter19_B.exe
+C:\Users\PC - VERDE\vsstudio\20200207\SpaceShooter19_B_collision2\SpaceShooter19_B\bin\Debug\SpaceShooter19_B.pdb
+C:\Users\PC - VERDE\vsstudio\20200207\SpaceShooter19_B_collision2\SpaceShooter19_B\bin\Debug\aiv-fast2d.dll
+C:\Users\PC - VERDE\vsstudio\20200207\SpaceShooter19_B_collision2\SpaceShooter19_B\bin\Debug\OpenTK.dll
+C:\Users\PC - VERDE\vsstudio\20200207\SpaceShooter19_B_collision2\SpaceShooter19_B\bin\Debug\OpenTK.xml
+C:\Users\PC - VERDE\vsstudio\20200207\SpaceShooter19_B_collision2\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.csprojAssemblyReference.cache
+C:\Users\PC - VERDE\vsstudio\20200207\SpaceShooter19_B_collision2\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.csproj.CoreCompileInputs.cache
+C:\Users\PC - VERDE\vsstudio\20200207\SpaceShooter19_B_collision2\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.csproj.CopyComplete
+C:\Users\PC - VERDE\vsstudio\20200207\SpaceShooter19_B_collision2\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.exe
+C:\Users\PC - VERDE\vsstudio\20200207\SpaceShooter19_B_collision2\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.pdb
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\SpaceShooter19_B_collision2\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.csprojAssemblyReference.cache
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\SpaceShooter19_B_collision2\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.csproj.CoreCompileInputs.cache
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\SpaceShooter19_B_collision2\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.exe
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\SpaceShooter19_B_collision2\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.pdb
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\SpaceShooter19_B_collision2\SpaceShooter19_B\bin\Debug\Assets\tmw_desert_spacing.png
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\SpaceShooter19_B_collision2\SpaceShooter19_B\bin\Debug\Assets\topdown.tmx
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\SpaceShooter19_B_collision2\SpaceShooter19_B\bin\Debug\SpaceShooter19_B.exe.config
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\SpaceShooter19_B_collision2\SpaceShooter19_B\bin\Debug\SpaceShooter19_B.exe
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\SpaceShooter19_B_collision2\SpaceShooter19_B\bin\Debug\SpaceShooter19_B.pdb
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\SpaceShooter19_B_collision2\SpaceShooter19_B\bin\Debug\aiv-fast2d.dll
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\SpaceShooter19_B_collision2\SpaceShooter19_B\bin\Debug\OpenTK.dll
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\SpaceShooter19_B_collision2\SpaceShooter19_B\bin\Debug\OpenTK.xml
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\SpaceShooter19_B_collision2\SpaceShooter19_B\obj\Debug\SpaceShooter19_B.csproj.CopyComplete
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\SpaceShooter19_B_collision2\SpaceShooter19_B\bin\Debug\Assets\64.png
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\SpaceShooter19_B_collision2\SpaceShooter19_B\bin\Debug\Assets\tmw_desert_nospa.png
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\SpaceShooter19_B_collision2\SpaceShooter19_B\bin\Debug\Assets\tmw_desert_margin.png
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\SpaceShooter19_B_collision2\SpaceShooter19_B\bin\Debug\Assets\66.png

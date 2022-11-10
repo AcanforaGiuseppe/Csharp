@@ -1,0 +1,101 @@
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\TiledPlugin\TiledPlugin\bin\Debug\aiv-fast2d.dll
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\TiledPlugin\TiledPlugin\bin\Debug\OpenTK.dll
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\TiledPlugin\TiledPlugin\bin\Debug\OpenTK.xml
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\TiledPlugin\TiledPlugin\obj\Debug\TiledPlugin.csprojAssemblyReference.cache
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\TiledPlugin\TiledPlugin\obj\Debug\TiledPlugin.csproj.CoreCompileInputs.cache
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\TiledPlugin\TiledPlugin\obj\Debug\TiledPlugin.csproj.CopyComplete
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\TiledPlugin\TiledPlugin\bin\Debug\TiledPlugin.exe.config
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\TiledPlugin\TiledPlugin\bin\Debug\TiledPlugin.exe
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\TiledPlugin\TiledPlugin\bin\Debug\TiledPlugin.pdb
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\TiledPlugin\TiledPlugin\obj\Debug\TiledPlugin.exe
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200403\TiledPlugin\TiledPlugin\obj\Debug\TiledPlugin.pdb
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210416_TILED02\TiledPlugin\TiledPlugin\obj\Debug\TiledPlugin.csprojAssemblyReference.cache
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210416_TILED02\TiledPlugin\TiledPlugin\obj\Debug\TiledPlugin.csproj.CoreCompileInputs.cache
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210416_TILED02\TiledPlugin\TiledPlugin\obj\Debug\TiledPlugin.exe
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210416_TILED02\TiledPlugin\TiledPlugin\obj\Debug\TiledPlugin.pdb
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210416_TILED02\TiledPlugin\TiledPlugin\bin\Debug\TiledPlugin.exe.config
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210416_TILED02\TiledPlugin\TiledPlugin\bin\Debug\TiledPlugin.exe
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210416_TILED02\TiledPlugin\TiledPlugin\bin\Debug\TiledPlugin.pdb
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210416_TILED02\TiledPlugin\TiledPlugin\bin\Debug\aiv-fast2d.dll
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210416_TILED02\TiledPlugin\TiledPlugin\bin\Debug\OpenTK.dll
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210416_TILED02\TiledPlugin\TiledPlugin\bin\Debug\OpenTK.pdb
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210416_TILED02\TiledPlugin\TiledPlugin\bin\Debug\OpenTK.xml
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210416_TILED02\TiledPlugin\TiledPlugin\obj\Debug\TiledPlugin.csproj.CopyComplete
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210416_TILED02\TiledPlugin\TiledPlugin\bin\Debug\Assets\tmw_desert_nospa.png
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210416_TILED02\TiledPlugin\TiledPlugin\bin\Debug\Assets\tmw_desert_spacing.png
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210416_TILED02\TiledPlugin\TiledPlugin\bin\Debug\Assets\map8x8.tmx
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210423_TILED03\TiledPlugin\TiledPlugin\bin\Debug\Assets\tmw_desert_nospa.png
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210423_TILED03\TiledPlugin\TiledPlugin\bin\Debug\Assets\tmw_desert_spacing.png
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210423_TILED03\TiledPlugin\TiledPlugin\bin\Debug\Assets\map8x8.tmx
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210423_TILED03\TiledPlugin\TiledPlugin\bin\Debug\TiledPlugin.exe.config
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210423_TILED03\TiledPlugin\TiledPlugin\bin\Debug\TiledPlugin.exe
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210423_TILED03\TiledPlugin\TiledPlugin\bin\Debug\TiledPlugin.pdb
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210423_TILED03\TiledPlugin\TiledPlugin\bin\Debug\aiv-fast2d.dll
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210423_TILED03\TiledPlugin\TiledPlugin\bin\Debug\OpenTK.dll
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210423_TILED03\TiledPlugin\TiledPlugin\bin\Debug\OpenTK.pdb
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210423_TILED03\TiledPlugin\TiledPlugin\bin\Debug\OpenTK.xml
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210423_TILED03\TiledPlugin\TiledPlugin\obj\Debug\TiledPlugin.csprojAssemblyReference.cache
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210423_TILED03\TiledPlugin\TiledPlugin\obj\Debug\TiledPlugin.csproj.CoreCompileInputs.cache
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210423_TILED03\TiledPlugin\TiledPlugin\obj\Debug\TiledPlugin.csproj.CopyComplete
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210423_TILED03\TiledPlugin\TiledPlugin\obj\Debug\TiledPlugin.exe
+C:\Users\fdf82\OneDrive\shared-aiv\20-21_aiv-prog-1\lezione-20210423_TILED03\TiledPlugin\TiledPlugin\obj\Debug\TiledPlugin.pdb
+C:\Users\Giuseppe\Desktop\TiledPlugin\TiledPlugin\bin\Debug\Assets\tmw_desert_nospa.png
+C:\Users\Giuseppe\Desktop\TiledPlugin\TiledPlugin\bin\Debug\Assets\tmw_desert_spacing.png
+C:\Users\Giuseppe\Desktop\TiledPlugin\TiledPlugin\bin\Debug\Assets\map8x8.tmx
+C:\Users\Giuseppe\Desktop\TiledPlugin\TiledPlugin\bin\Debug\TiledPlugin.exe.config
+C:\Users\Giuseppe\Desktop\TiledPlugin\TiledPlugin\bin\Debug\TiledPlugin.exe
+C:\Users\Giuseppe\Desktop\TiledPlugin\TiledPlugin\bin\Debug\TiledPlugin.pdb
+C:\Users\Giuseppe\Desktop\TiledPlugin\TiledPlugin\bin\Debug\aiv-fast2d.dll
+C:\Users\Giuseppe\Desktop\TiledPlugin\TiledPlugin\bin\Debug\OpenTK.dll
+C:\Users\Giuseppe\Desktop\TiledPlugin\TiledPlugin\bin\Debug\OpenTK.pdb
+C:\Users\Giuseppe\Desktop\TiledPlugin\TiledPlugin\bin\Debug\OpenTK.xml
+C:\Users\Giuseppe\Desktop\TiledPlugin\TiledPlugin\obj\Debug\TiledPlugin.csprojAssemblyReference.cache
+C:\Users\Giuseppe\Desktop\TiledPlugin\TiledPlugin\obj\Debug\TiledPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Giuseppe\Desktop\TiledPlugin\TiledPlugin\obj\Debug\TiledPlugin.csproj.CopyComplete
+C:\Users\Giuseppe\Desktop\TiledPlugin\TiledPlugin\obj\Debug\TiledPlugin.exe
+C:\Users\Giuseppe\Desktop\TiledPlugin\TiledPlugin\obj\Debug\TiledPlugin.pdb
+D:\Sviluppo\Tiled_Ex\Tiled VisualStudio\TiledPlugin\bin\Debug\Assets\tmw_desert_nospa.png
+D:\Sviluppo\Tiled_Ex\Tiled VisualStudio\TiledPlugin\bin\Debug\Assets\tmw_desert_spacing.png
+D:\Sviluppo\Tiled_Ex\Tiled VisualStudio\TiledPlugin\bin\Debug\Assets\map8x8.tmx
+D:\Sviluppo\Tiled_Ex\Tiled VisualStudio\TiledPlugin\bin\Debug\TiledPlugin.exe.config
+D:\Sviluppo\Tiled_Ex\Tiled VisualStudio\TiledPlugin\bin\Debug\TiledPlugin.exe
+D:\Sviluppo\Tiled_Ex\Tiled VisualStudio\TiledPlugin\bin\Debug\TiledPlugin.pdb
+D:\Sviluppo\Tiled_Ex\Tiled VisualStudio\TiledPlugin\bin\Debug\aiv-fast2d.dll
+D:\Sviluppo\Tiled_Ex\Tiled VisualStudio\TiledPlugin\bin\Debug\OpenTK.dll
+D:\Sviluppo\Tiled_Ex\Tiled VisualStudio\TiledPlugin\bin\Debug\OpenTK.pdb
+D:\Sviluppo\Tiled_Ex\Tiled VisualStudio\TiledPlugin\bin\Debug\OpenTK.xml
+D:\Sviluppo\Tiled_Ex\Tiled VisualStudio\TiledPlugin\obj\Debug\TiledPlugin.csprojAssemblyReference.cache
+D:\Sviluppo\Tiled_Ex\Tiled VisualStudio\TiledPlugin\obj\Debug\TiledPlugin.csproj.CoreCompileInputs.cache
+D:\Sviluppo\Tiled_Ex\Tiled VisualStudio\TiledPlugin\obj\Debug\TiledPlugin.csproj.CopyComplete
+D:\Sviluppo\Tiled_Ex\Tiled VisualStudio\TiledPlugin\obj\Debug\TiledPlugin.exe
+D:\Sviluppo\Tiled_Ex\Tiled VisualStudio\TiledPlugin\obj\Debug\TiledPlugin.pdb
+Z:\School Development\- Projects\Tiled\Tiled VisualStudio\TiledPlugin\bin\Debug\Assets\tmw_desert_nospa.png
+Z:\School Development\- Projects\Tiled\Tiled VisualStudio\TiledPlugin\bin\Debug\Assets\tmw_desert_spacing.png
+Z:\School Development\- Projects\Tiled\Tiled VisualStudio\TiledPlugin\bin\Debug\Assets\map8x8.tmx
+Z:\School Development\- Projects\Tiled\Tiled VisualStudio\TiledPlugin\bin\Debug\TiledPlugin.exe.config
+Z:\School Development\- Projects\Tiled\Tiled VisualStudio\TiledPlugin\bin\Debug\TiledPlugin.exe
+Z:\School Development\- Projects\Tiled\Tiled VisualStudio\TiledPlugin\bin\Debug\TiledPlugin.pdb
+Z:\School Development\- Projects\Tiled\Tiled VisualStudio\TiledPlugin\bin\Debug\aiv-fast2d.dll
+Z:\School Development\- Projects\Tiled\Tiled VisualStudio\TiledPlugin\bin\Debug\OpenTK.dll
+Z:\School Development\- Projects\Tiled\Tiled VisualStudio\TiledPlugin\bin\Debug\OpenTK.pdb
+Z:\School Development\- Projects\Tiled\Tiled VisualStudio\TiledPlugin\bin\Debug\OpenTK.xml
+Z:\School Development\- Projects\Tiled\Tiled VisualStudio\TiledPlugin\obj\Debug\TiledPlugin.csproj.AssemblyReference.cache
+Z:\School Development\- Projects\Tiled\Tiled VisualStudio\TiledPlugin\obj\Debug\TiledPlugin.csproj.CoreCompileInputs.cache
+Z:\School Development\- Projects\Tiled\Tiled VisualStudio\TiledPlugin\obj\Debug\TiledPlugin.csproj.CopyComplete
+Z:\School Development\- Projects\Tiled\Tiled VisualStudio\TiledPlugin\obj\Debug\TiledPlugin.exe
+Z:\School Development\- Projects\Tiled\Tiled VisualStudio\TiledPlugin\obj\Debug\TiledPlugin.pdb
+Z:\School Development\- Projects\Tiled\Tiled implementation C#\TiledPlugin\bin\Debug\Assets\tmw_desert_nospa.png
+Z:\School Development\- Projects\Tiled\Tiled implementation C#\TiledPlugin\bin\Debug\Assets\tmw_desert_spacing.png
+Z:\School Development\- Projects\Tiled\Tiled implementation C#\TiledPlugin\bin\Debug\Assets\map8x8.tmx
+Z:\School Development\- Projects\Tiled\Tiled implementation C#\TiledPlugin\bin\Debug\TiledPlugin.exe.config
+Z:\School Development\- Projects\Tiled\Tiled implementation C#\TiledPlugin\bin\Debug\TiledPlugin.exe
+Z:\School Development\- Projects\Tiled\Tiled implementation C#\TiledPlugin\bin\Debug\TiledPlugin.pdb
+Z:\School Development\- Projects\Tiled\Tiled implementation C#\TiledPlugin\bin\Debug\aiv-fast2d.dll
+Z:\School Development\- Projects\Tiled\Tiled implementation C#\TiledPlugin\bin\Debug\OpenTK.dll
+Z:\School Development\- Projects\Tiled\Tiled implementation C#\TiledPlugin\bin\Debug\OpenTK.pdb
+Z:\School Development\- Projects\Tiled\Tiled implementation C#\TiledPlugin\bin\Debug\OpenTK.xml
+Z:\School Development\- Projects\Tiled\Tiled implementation C#\TiledPlugin\obj\Debug\TiledPlugin.csproj.AssemblyReference.cache
+Z:\School Development\- Projects\Tiled\Tiled implementation C#\TiledPlugin\obj\Debug\TiledPlugin.csproj.CoreCompileInputs.cache
+Z:\School Development\- Projects\Tiled\Tiled implementation C#\TiledPlugin\obj\Debug\TiledPlugin.csproj.CopyComplete
+Z:\School Development\- Projects\Tiled\Tiled implementation C#\TiledPlugin\obj\Debug\TiledPlugin.exe
+Z:\School Development\- Projects\Tiled\Tiled implementation C#\TiledPlugin\obj\Debug\TiledPlugin.pdb

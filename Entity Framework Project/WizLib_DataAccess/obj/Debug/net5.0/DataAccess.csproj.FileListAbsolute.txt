@@ -1,0 +1,36 @@
+C:\Users\acanf\Desktop\WizLib_EFCore-master\WizLib_DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\acanf\Desktop\WizLib_EFCore-master\WizLib_DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\acanf\Desktop\WizLib_EFCore-master\WizLib_DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\acanf\Desktop\WizLib_EFCore-master\WizLib_DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\acanf\Desktop\WizLib_EFCore-master\WizLib_DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\acanf\Desktop\WizLib_EFCore-master\WizLib_DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\acanf\Desktop\WizLib_EFCore-master\WizLib_DataAccess\bin\Debug\net5.0\Models.dll
+C:\Users\acanf\Desktop\WizLib_EFCore-master\WizLib_DataAccess\bin\Debug\net5.0\Models.pdb
+C:\Users\acanf\Desktop\WizLib_EFCore-master\WizLib_DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\acanf\Desktop\WizLib_EFCore-master\WizLib_DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acanf\Desktop\WizLib_EFCore-master\WizLib_DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\acanf\Desktop\WizLib_EFCore-master\WizLib_DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\acanf\Desktop\WizLib_EFCore-master\WizLib_DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\acanf\Desktop\WizLib_EFCore-master\WizLib_DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\acanf\Desktop\WizLib_EFCore-master\WizLib_DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\acanf\Desktop\WizLib_EFCore-master\WizLib_DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\acanf\Desktop\WizLib_EFCore-master\WizLib_DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\acanf\Desktop\WizLib_EFCore-master\WizLib_DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\acanf\Desktop\Entity Framework Project\WizLib_DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\acanf\Desktop\Entity Framework Project\WizLib_DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\acanf\Desktop\Entity Framework Project\WizLib_DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\acanf\Desktop\Entity Framework Project\WizLib_DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\acanf\Desktop\Entity Framework Project\WizLib_DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\acanf\Desktop\Entity Framework Project\WizLib_DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\acanf\Desktop\Entity Framework Project\WizLib_DataAccess\bin\Debug\net5.0\Models.dll
+C:\Users\acanf\Desktop\Entity Framework Project\WizLib_DataAccess\bin\Debug\net5.0\Models.pdb
+C:\Users\acanf\Desktop\Entity Framework Project\WizLib_DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\acanf\Desktop\Entity Framework Project\WizLib_DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acanf\Desktop\Entity Framework Project\WizLib_DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\acanf\Desktop\Entity Framework Project\WizLib_DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\acanf\Desktop\Entity Framework Project\WizLib_DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\acanf\Desktop\Entity Framework Project\WizLib_DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\acanf\Desktop\Entity Framework Project\WizLib_DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\acanf\Desktop\Entity Framework Project\WizLib_DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\acanf\Desktop\Entity Framework Project\WizLib_DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\acanf\Desktop\Entity Framework Project\WizLib_DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache

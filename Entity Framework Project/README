@@ -1,0 +1,6 @@
+Project that comes from Udemy Course about Entity Framework, developed in C# language.
+
+Libraries needed in the project:
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.Tools
+Microsoft.EntityFrameworkCore.SqlServer

@@ -1,0 +1,98 @@
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\Audio\BgMusic_2.wav
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\Audio\Collectible.wav
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\Audio\Ouch_2.wav
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\Audio\Ouch_3.wav
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\Audio\RunningGrass_2.wav
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\background.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\Crouch.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\Damage1.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\Damage2.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\Damage3.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\Death.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\EndExit.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\Exit.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\Jump.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\Lore1.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\Lore2.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\LostMyself.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\obstacoletto.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\ostacolino.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\ostacolone.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\player_spritesheet.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\Start.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\star_spritesheet.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\Terrain1.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\Terrain2.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\Terrain3.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\Terrain4.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\Terrain5.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\Terrain6.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\Terrain7.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\ThankYou.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\TheEnd.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\Assets\BackgroundGrey.png
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\GameJam.exe.config
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\GameJam.exe
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\GameJam.pdb
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\aiv-audio.dll
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\aiv-fast2d.dll
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\AivDraw.dll
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\NVorbis.dll
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\OpenTK.dll
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\NVorbis.xml
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\OpenTK.pdb
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\bin\Release\OpenTK.xml
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\obj\Release\GameJam.csprojAssemblyReference.cache
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\obj\Release\GameJam.csproj.CoreCompileInputs.cache
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\obj\Release\GameJam.csproj.CopyComplete
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\obj\Release\GameJam.exe
+C:\Users\Giuseppe\Desktop\GameJamFinal\GameJam\obj\Release\GameJam.pdb
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\Audio\BgMusic_2.wav
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\Audio\Collectible.wav
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\Audio\Ouch_2.wav
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\Audio\Ouch_3.wav
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\Audio\RunningGrass_2.wav
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\background.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\Crouch.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\Damage1.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\Damage2.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\Damage3.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\Death.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\EndExit.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\Exit.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\Jump.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\Lore1.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\Lore2.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\LostMyself.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\obstacoletto.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\ostacolino.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\ostacolone.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\player_spritesheet.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\Start.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\star_spritesheet.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\Terrain1.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\Terrain2.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\Terrain3.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\Terrain4.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\Terrain5.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\Terrain6.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\Terrain7.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\ThankYou.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\TheEnd.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\Assets\BackgroundGrey.png
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\GameJam.exe.config
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\GameJam.exe
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\GameJam.pdb
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\aiv-audio.dll
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\aiv-fast2d.dll
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\AivDraw.dll
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\NVorbis.dll
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\OpenTK.dll
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\NVorbis.xml
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\OpenTK.pdb
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\bin\Release\OpenTK.xml
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\obj\Release\GameJam.csprojAssemblyReference.cache
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\obj\Release\GameJam.csproj.CoreCompileInputs.cache
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\obj\Release\GameJam.csproj.CopyComplete
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\obj\Release\GameJam.exe
+C:\Users\Giuseppe\Desktop\Lost Myself\GameJam\obj\Release\GameJam.pdb

@@ -1,0 +1,16 @@
+Lost Myself
+
+Project developed after a short while in AIV - (Accademia Italiana Videogiochi)
+to partecipate at the "Global Game Jam", where developers and other figures
+connected to the game developers world met for create a "complete" game in the arc
+of the competition's length.
+Personally I have covered the role of the developer, with other 4 colleagues of accademy,
+where one of them cared about the graphic aspect of the game.
+Tecnologies used: Visual Studio 2019 (coded with C# language), private scolastic libraries.
+
+Libraries needed in the project:
+Aiv.Draw.1.0.0
+Aiv.Fast2D.1.0.0
+Aiv.Audio.0.2.2
+OpenTK.3.2
+NVorbis.0.8.6

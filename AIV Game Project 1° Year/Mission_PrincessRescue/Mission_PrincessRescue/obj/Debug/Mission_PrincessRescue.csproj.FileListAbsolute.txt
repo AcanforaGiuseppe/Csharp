@@ -1,0 +1,145 @@
+D:\Sviluppo\Visual Studio\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Mission_PrincessRescue.exe.config
+D:\Sviluppo\Visual Studio\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Mission_PrincessRescue.exe
+D:\Sviluppo\Visual Studio\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Mission_PrincessRescue.pdb
+D:\Sviluppo\Visual Studio\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\aiv-audio.dll
+D:\Sviluppo\Visual Studio\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\aiv-fast2d.dll
+D:\Sviluppo\Visual Studio\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\NVorbis.dll
+D:\Sviluppo\Visual Studio\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\OpenTK.dll
+D:\Sviluppo\Visual Studio\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\System.ValueTuple.dll
+D:\Sviluppo\Visual Studio\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\NVorbis.xml
+D:\Sviluppo\Visual Studio\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\OpenTK.pdb
+D:\Sviluppo\Visual Studio\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\OpenTK.xml
+D:\Sviluppo\Visual Studio\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\System.ValueTuple.xml
+D:\Sviluppo\Visual Studio\Mission_PrincessRescue\Mission_PrincessRescue\obj\Debug\Mission_PrincessRescue.csprojAssemblyReference.cache
+D:\Sviluppo\Visual Studio\Mission_PrincessRescue\Mission_PrincessRescue\obj\Debug\Mission_PrincessRescue.csproj.CoreCompileInputs.cache
+D:\Sviluppo\Visual Studio\Mission_PrincessRescue\Mission_PrincessRescue\obj\Debug\Mission_PrincessRescue.csproj.CopyComplete
+D:\Sviluppo\Visual Studio\Mission_PrincessRescue\Mission_PrincessRescue\obj\Debug\Mission_PrincessRescue.exe
+D:\Sviluppo\Visual Studio\Mission_PrincessRescue\Mission_PrincessRescue\obj\Debug\Mission_PrincessRescue.pdb
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\obj\Debug\Mission_PrincessRescue.csproj.CoreCompileInputs.cache
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\obj\Debug\Mission_PrincessRescue.exe
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\obj\Debug\Mission_PrincessRescue.pdb
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Mission_PrincessRescue.exe.config
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Mission_PrincessRescue.exe
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Mission_PrincessRescue.pdb
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\aiv-audio.dll
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\aiv-fast2d.dll
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\NVorbis.dll
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\OpenTK.dll
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\System.ValueTuple.dll
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\NVorbis.xml
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\OpenTK.pdb
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\OpenTK.xml
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\System.ValueTuple.xml
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\obj\Debug\Mission_PrincessRescue.csproj.CopyComplete
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\comics.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\textSheet.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\tileset.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\tileset_spacing.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Cross.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Heroes\Hero.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\dungeon.tmx
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\dungeon1.tmx
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\dungeon2.tmx
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\dungeonTunnel.tmx
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\obj\Debug\Mission_PrincessRescue.csproj.AssemblyReference.cache
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\beach.tmx
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\forest.tmx
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\houseLeft.tmx
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\houseRight.tmx
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\houseMiddle.tmx
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\key.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\spawn-closed.tmx
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\spawn-open.tmx
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\bones.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\bow.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\chest.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\crown.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\lamp.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\leaf.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\shovel.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\skull.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\blood.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\fire.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\bucket.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\falo.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\fish.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Music\beach.ogg
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Music\city.ogg
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Music\dungeon.ogg
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Music\fire.ogg
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Music\forest.ogg
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Music\victory.ogg
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\ball.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\umbrella.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Music\chest_opening.ogg
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Heroes\Dog.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Heroes\Princess.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Heroes\Enemy.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Music\Dog_Sound.ogg
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\Giuseppe\Desktop\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\GameOverScreen.jpg
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\comics.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Cross.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\GameOverScreen.jpg
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Heroes\Dog.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Heroes\Enemy.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Heroes\Princess.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Heroes\Hero.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\ball.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\blood.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\bones.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\bow.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\bucket.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\chest.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\crown.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\falo.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\fire.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\fish.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\key.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\lamp.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\leaf.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\shovel.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\skull.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Items\umbrella.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\loadingBar_bar.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\loadingBar_frame.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Music\beach.ogg
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Music\chest_opening.ogg
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Music\city.ogg
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Music\Dog_Sound.ogg
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Music\dungeon.ogg
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Music\fire.ogg
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Music\forest.ogg
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Music\victory.ogg
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\textSheet.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\tileset.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\tileset_spacing.png
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\spawn-closed.tmx
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\spawn-open.tmx
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\dungeon.tmx
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\dungeon1.tmx
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\dungeon2.tmx
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\dungeonTunnel.tmx
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\houseLeft.tmx
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\houseRight.tmx
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\houseMiddle.tmx
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\beach.tmx
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Assets\Tiled\forest.tmx
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Mission_PrincessRescue.exe.config
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Mission_PrincessRescue.exe
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\Mission_PrincessRescue.pdb
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\aiv-audio.dll
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\aiv-fast2d.dll
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\NVorbis.dll
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\OpenTK.dll
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\System.ValueTuple.dll
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\NVorbis.xml
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\OpenTK.pdb
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\OpenTK.xml
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\bin\Debug\System.ValueTuple.xml
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\obj\Debug\Mission_PrincessRescue.csproj.AssemblyReference.cache
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\obj\Debug\Mission_PrincessRescue.csproj.CoreCompileInputs.cache
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\obj\Debug\Mission_PrincessRescue.csproj.CopyComplete
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\obj\Debug\Mission_PrincessRescue.exe
+D:\Sviluppo\Visual Studio\Fast2D\Mission_PrincessRescue\Mission_PrincessRescue\obj\Debug\Mission_PrincessRescue.pdb

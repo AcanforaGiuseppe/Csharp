@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gu0TvAmyZGLYVBxr/3iDyrpv7SE3dCQ6PKgeSckjT9s9crnzLWD+tYCCqMsvymRGAW1gNZphF8GLQkCT6F6LsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acanf\\Desktop\\LinqTutorialNet6-main\\ExercisesSolutions\\ExercisesSolutions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acanf\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

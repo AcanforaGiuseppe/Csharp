@@ -1,0 +1,2 @@
+Project intended to explain the use of using statement -> ex. using(StringReader tempString = new StringReader(strings)) { code }
+and the "@" before a string -> ex. @"string"

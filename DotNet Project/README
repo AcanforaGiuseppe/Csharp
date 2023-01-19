@@ -1,0 +1,18 @@
+Project that comes from Udemy Course about mastering DotNet, developed in C# language.
+
+Libraries needed in the project:
+Microsoft.AspNetCore.Identity.EntityFrameworkCore
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.Tools
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Relational
+Microsoft.AspNetCore.Mvc.ViewFeatures
+Microsoft.AspNetCore.Identity.UI
+Microsoft.Extensions.Identity.Stores
+SendGrid
+MimeKit
+MailKit
+Microsoft.AspNetCore.Authentication.Facebook
+Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation
+Microsoft.VisualStudio.Web.CodeGeneration.Design
+Stripe.net

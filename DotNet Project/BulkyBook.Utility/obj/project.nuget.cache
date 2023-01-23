@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fHTo/Q5tS6+OFXyJWB85Yh5Hw+nvHhTbuap98oj349YqRvELP68AD7LzKIlSydDiuQR1vUZeggQdpORLTMHhhQ==",
+  "dgSpecHash": "eKF1gjnmX+ReN5vUWPBBc7VJvIHCNty7Qbe/7fBMng7lypw/IqZ0chinoDZxorN4mENMR4F38iAyUflu+LpY2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
+  "projectFilePath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acanf\\.nuget\\packages\\mailkit\\2.15.0\\mailkit.2.15.0.nupkg.sha512",
     "C:\\Users\\acanf\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0-rc.1.21452.15\\microsoft.aspnetcore.cryptography.internal.6.0.0-rc.1.21452.15.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HoDCQatuXEf7+9Vcj5W197PDqArkqtqkfG7QzW0xxtg8EF4n/gErWqOw0/wCw6y0cFB2Qa6J9A6EvjkMSuvZfQ==",
+  "dgSpecHash": "Nn/EpZWYjhmDTH+M4Bj+OsDnozUr/NmIkPCj5yt5JhtAHjAwTYeQ0K2+VqX0P0GNUlno2tdjOS1fXoFGjpP58g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\acanf\\Desktop\\LinqTutorialNet6-main\\Utilities\\Utilities.csproj",
+  "projectFilePath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\Linq Project\\Utilities\\Utilities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acanf\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512"
   ],

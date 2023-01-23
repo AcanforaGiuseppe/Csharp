@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fhXKNmyX40DileLwjVODJEkMXdX2NnZkQ77q9dAWvBhHr2crToJJaOY5tR+zzz4LEUnb1+sbwDt4yqKgoK7J+w==",
+  "dgSpecHash": "3y8D7kibn2TgjRnkvsPncBMLqrJ+B+giENvYBDiBT7JNRC+3F1QacOhHc3UvGveiYnKMBC0E1+VO2u464bK05Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
+  "projectFilePath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acanf\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\acanf\\.nuget\\packages\\mailkit\\2.15.0\\mailkit.2.15.0.nupkg.sha512",

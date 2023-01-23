@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oW4bPDaTXNb5sluZTZGlH8aBcC6ZdYvc/6ouEaVRKzQT+PJ9I1hK+njqoNDLvHi+oJfOWOeLjEhh6rXV6iz/WA==",
+  "dgSpecHash": "n6dq7yeg6H1RLcUXaXt13EAvVShK2c94d5pPnL7N2QBa33jeqhu/OrbghKO9KF4/EUwVPfGEVPOCsNjDvIhRIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\acanf\\Desktop\\Entity Framework Project\\WizLib_DataAccess\\DataAccess.csproj",
+  "projectFilePath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\Entity Framework Project\\WizLib_DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acanf\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\acanf\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

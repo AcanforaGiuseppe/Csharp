@@ -3989,11 +3989,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
+      "projectUniqueName": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
       "projectName": "BulkyBook.Utility",
-      "projectPath": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
+      "projectPath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
       "packagesPath": "C:\\Users\\acanf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.Utility\\obj\\",
+      "outputPath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

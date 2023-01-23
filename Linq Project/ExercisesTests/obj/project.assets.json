@@ -3909,11 +3909,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\acanf\\Desktop\\LinqTutorialNet6-main\\ExercisesTests\\ExercisesTests.csproj",
+      "projectUniqueName": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\Linq Project\\ExercisesTests\\ExercisesTests.csproj",
       "projectName": "ExercisesTests",
-      "projectPath": "C:\\Users\\acanf\\Desktop\\LinqTutorialNet6-main\\ExercisesTests\\ExercisesTests.csproj",
+      "projectPath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\Linq Project\\ExercisesTests\\ExercisesTests.csproj",
       "packagesPath": "C:\\Users\\acanf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\acanf\\Desktop\\LinqTutorialNet6-main\\ExercisesTests\\obj\\",
+      "outputPath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\Linq Project\\ExercisesTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3934,8 +3934,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\acanf\\Desktop\\LinqTutorialNet6-main\\Exercises\\Exercises.csproj": {
-              "projectPath": "C:\\Users\\acanf\\Desktop\\LinqTutorialNet6-main\\Exercises\\Exercises.csproj"
+            "Z:\\Development\\- Projects\\C#\\Progetti Personali\\Linq Project\\Exercises\\Exercises.csproj": {
+              "projectPath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\Linq Project\\Exercises\\Exercises.csproj"
             }
           }
         }

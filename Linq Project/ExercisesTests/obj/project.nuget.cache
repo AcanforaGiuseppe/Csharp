@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ECiI+ajmdiKfwkWo7U/1j4Dg2Ax+Nxq26sFrZQ5GjMCkfTnhyuHwkbazSlg4R0UGj0ewRjYdJiMGJS7YT9Y4aw==",
+  "dgSpecHash": "pAVXudKCkU/kbLj/BGcT03VUzuoK28pvE32HtJ906uvqV+MAx59IT6ebSlu9VA4ihoCBFRQmeuKik54aVKazgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\acanf\\Desktop\\LinqTutorialNet6-main\\ExercisesTests\\ExercisesTests.csproj",
+  "projectFilePath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\Linq Project\\ExercisesTests\\ExercisesTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acanf\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
     "C:\\Users\\acanf\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

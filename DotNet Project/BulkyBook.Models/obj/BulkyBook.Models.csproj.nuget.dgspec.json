@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.Models\\BulkyBook.Models.csproj": {}
+    "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.Models\\BulkyBook.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.Models\\BulkyBook.Models.csproj": {
+    "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.Models\\BulkyBook.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.Models\\BulkyBook.Models.csproj",
+        "projectUniqueName": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.Models\\BulkyBook.Models.csproj",
         "projectName": "BulkyBook.Models",
-        "projectPath": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.Models\\BulkyBook.Models.csproj",
+        "projectPath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.Models\\BulkyBook.Models.csproj",
         "packagesPath": "C:\\Users\\acanf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.Models\\obj\\",
+        "outputPath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

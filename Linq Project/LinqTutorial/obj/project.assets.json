@@ -68,11 +68,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\acanf\\Desktop\\LinqTutorialNet6-main\\LinqTutorial\\LinqTutorial.csproj",
+      "projectUniqueName": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\Linq Project\\LinqTutorial\\LinqTutorial.csproj",
       "projectName": "LinqTutorial",
-      "projectPath": "C:\\Users\\acanf\\Desktop\\LinqTutorialNet6-main\\LinqTutorial\\LinqTutorial.csproj",
+      "projectPath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\Linq Project\\LinqTutorial\\LinqTutorial.csproj",
       "packagesPath": "C:\\Users\\acanf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\acanf\\Desktop\\LinqTutorialNet6-main\\LinqTutorial\\obj\\",
+      "outputPath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\Linq Project\\LinqTutorial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,8 +93,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\acanf\\Desktop\\LinqTutorialNet6-main\\Utilities\\Utilities.csproj": {
-              "projectPath": "C:\\Users\\acanf\\Desktop\\LinqTutorialNet6-main\\Utilities\\Utilities.csproj"
+            "Z:\\Development\\- Projects\\C#\\Progetti Personali\\Linq Project\\Utilities\\Utilities.csproj": {
+              "projectPath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\Linq Project\\Utilities\\Utilities.csproj"
             }
           }
         }

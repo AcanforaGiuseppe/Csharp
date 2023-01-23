@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GUPwdLAJcZ24sf+A3gQxUHuRdTrLUNNsL8etHN0hAOHmaljlov1lFohPeJ6vhGR4Cdj/oEOe8rPjMaS2Ta1sHQ==",
+  "dgSpecHash": "ATYzf8nxDkUnr60W4TSKPMS5iyZW5pERDVM1GFLwCg7do5UU1vYiRM0DgC+2v/fdvF2dmi/wVqQTuUXwJzXmsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\acanf\\Desktop\\Entity Framework Project\\WizLib\\EntityFrameworkProj.csproj",
+  "projectFilePath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\Entity Framework Project\\WizLib\\EntityFrameworkProj.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acanf\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\acanf\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",

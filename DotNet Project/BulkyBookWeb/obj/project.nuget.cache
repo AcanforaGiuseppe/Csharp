@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6U2cKQyL0JDf0KYkvPFRUJ1/QANTABgCo5O6IxkvB+vYLnf5nbzfljuboUT4Yfp54AF1OufC3BEfpXb3MfkSGg==",
+  "dgSpecHash": "4Tzd5a8NdVmCX8CA6fhkSkbEHrUZEBViZoMG4MQoGrvZaCTz/yOlyKn9d4srXNSrhXH2A2a7fI0r1ogKUgVRVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBookWeb\\BulkyBookWeb.csproj",
+  "projectFilePath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBookWeb\\BulkyBookWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acanf\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\acanf\\.nuget\\packages\\mailkit\\2.15.0\\mailkit.2.15.0.nupkg.sha512",

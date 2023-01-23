@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
+    "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj": {
+    "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
+        "projectUniqueName": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
         "projectName": "BulkyBook.DataAccess",
-        "projectPath": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
+        "projectPath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
         "packagesPath": "C:\\Users\\acanf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.DataAccess\\obj\\",
+        "outputPath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.Models\\BulkyBook.Models.csproj": {
-                "projectPath": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.Models\\BulkyBook.Models.csproj"
+              "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.Models\\BulkyBook.Models.csproj": {
+                "projectPath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.Models\\BulkyBook.Models.csproj"
               },
-              "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {
-                "projectPath": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.Utility\\BulkyBook.Utility.csproj"
+              "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {
+                "projectPath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.Utility\\BulkyBook.Utility.csproj"
               }
             }
           }
@@ -94,14 +94,14 @@
         }
       }
     },
-    "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.Models\\BulkyBook.Models.csproj": {
+    "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.Models\\BulkyBook.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.Models\\BulkyBook.Models.csproj",
+        "projectUniqueName": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.Models\\BulkyBook.Models.csproj",
         "projectName": "BulkyBook.Models",
-        "projectPath": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.Models\\BulkyBook.Models.csproj",
+        "projectPath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.Models\\BulkyBook.Models.csproj",
         "packagesPath": "C:\\Users\\acanf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.Models\\obj\\",
+        "outputPath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -163,14 +163,14 @@
         }
       }
     },
-    "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {
+    "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
+        "projectUniqueName": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
         "projectName": "BulkyBook.Utility",
-        "projectPath": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
+        "projectPath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
         "packagesPath": "C:\\Users\\acanf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.Utility\\obj\\",
+        "outputPath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -240,14 +240,14 @@
         }
       }
     },
-    "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBookWeb\\BulkyBookWeb.csproj": {
+    "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBookWeb\\BulkyBookWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "projectUniqueName": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBookWeb\\BulkyBookWeb.csproj",
         "projectName": "BulkyBookWeb",
-        "projectPath": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "projectPath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBookWeb\\BulkyBookWeb.csproj",
         "packagesPath": "C:\\Users\\acanf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBookWeb\\obj\\",
+        "outputPath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBookWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -268,11 +268,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj"
+              "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj": {
+                "projectPath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj"
               },
-              "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {
-                "projectPath": "C:\\Users\\acanf\\Desktop\\Bulky-master\\BulkyBook.Utility\\BulkyBook.Utility.csproj"
+              "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {
+                "projectPath": "Z:\\Development\\- Projects\\C#\\Progetti Personali\\DotNet Project\\BulkyBook.Utility\\BulkyBook.Utility.csproj"
               }
             }
           }

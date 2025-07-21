@@ -1,13 +1,16 @@
 Mission: Princess Rescue
-Final project from the first year of AIV academy - (Accademia Italiana Videogiochi):
-it represents the work of a month in solitary, in which we can comprehend
-all the mechanisms learned during this academic year, the most important are:
-Pathfinding, "Tiled" Map Implementation in C#, AI.
-Tecnologies used: Visual Studio 2019 (coded with C# language), private scolastic libraries.
 
-Libraries needed in the project:
-Aiv.Fast2D.1.0.2
-Aiv.Audio.0.2.2
-OpenTK.3.2
-NVorbis.0.9.1
-System.ValueTuple.4.5.0
+
+[IT] Progetto finale del primo anno di accademia in AIV - (Accademia Italiana Videogiochi):
+esso rappresenta il lavoro di un mese in solitaria, nel quale possiamo comprendere tutti i meccanismi appresi
+durante quest’anno accademico, tra i più noti abbiamo: Pathfinding, Implementazione di mappe “Tiled” in C#, AI.
+Tecnologie utilizzate: codifica in C#, libreria proprietaria scolastica.
+
+
+[EN] Final project of the first year of academy in AIV - (Accademia Italiana Videogiochi):
+it represents the work of a month stand alone, in which we can comprehend all the mechanisms learned
+during this academic year, the most famous are: Pathfinding, “Tiled” maps implementation in C#, AI.
+Used technologies: C# coding, proprietary school library.
+
+
+Youtube: https://youtu.be/z2vFWOHhf4s

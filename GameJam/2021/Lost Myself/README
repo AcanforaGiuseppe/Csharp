@@ -1,16 +1,21 @@
 Lost Myself
 
-Project developed after a short while in AIV - (Accademia Italiana Videogiochi)
-to partecipate at the "Global Game Jam", where developers and other figures
-connected to the game developers world met for create a "complete" game in the arc
-of the competition's length.
-Personally I have covered the role of the developer, with other 4 colleagues of accademy,
-where one of them cared about the graphic aspect of the game.
-Tecnologies used: Visual Studio 2019 (coded with C# language), private scolastic libraries.
 
-Libraries needed in the project:
-Aiv.Draw.1.0.0
-Aiv.Fast2D.1.0.0
-Aiv.Audio.0.2.2
-OpenTK.3.2
-NVorbis.0.8.6
+[IT] Progetto sviluppato dopo pochissimo tempo in AIV - (Accademia Italiana Videogiochi)
+per partecipare alla competizione “Global Game Jam”, dove sviluppatori ed altre figure legate al mondo dello sviluppo dei
+videogiochi si incontrano per dar vita ad un gioco “completo” nell’arco della durata della competizione.
+Personalmente ho ricoperto il ruolo di programmatore, insieme ad altri quattro compagni di accademia, dove
+uno di loro ha anche curato l’aspetto grafico del gioco.
+Tecnologie utilizzate: codifica in C#, libreria proprietaria scolastica.
+
+
+[EN] Project developed after very short time in AIV - (Accademia Italiana Videogiochi)
+to partecipate to the competition “Global Game Jam”, where developers and other figures linked to the world of
+game developers meets for give life to a “complete” game in the given time of the competition.
+Personally I covered the developer role, with other four academy teammates,
+where one of theme cared about the graphic aspect of the game.
+Used technologies: C# coding, proprietary school library.
+
+
+Global Game Jam: https://globalgamejam.org/2021/games/lost-myself-9
+Youtube: https://youtu.be/Htsx-Nbyjb0
